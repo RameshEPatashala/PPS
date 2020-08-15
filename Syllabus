@@ -1,0 +1,73 @@
+Unit-I
+Introduction to Programming : 
+components of Computer system
+Algorithm
+Flow chart
+Program development steps
+C Tokens
+Structure of C program
+Basic I/O statements
+Operators
+Operator precedence
+
+Unit-II
+Control Structures: 
+
+Decision statements:
+ if
+if-else
+nested if and switch
+
+Iterative statements:
+for
+while
+do while 
+
+nested loops Branching: 
+Break
+continue
+goto.
+
+Unit-III
+Arrays:
+
+Definition
+Types: 1D, declaration, initialization, accessing elements
+Multi Dimensional arrays, declaration, initialization, accessing elements
+Matrix operations
+String Handling
+Functions: Definitions
+Declaration, Types of Functions
+Parameter passing
+Passing Arrays to functions
+Recursion
+library functions
+Storage classes
+
+Unit-IV
+Pointers: 
+Definition
+Declaration, Initialization
+Pointer arithmetic
+Pointer to pointer
+functions and pointers
+arrays and pointers
+Dynamic memory allocation
+ 
+Unit-V
+Structures: 
+Definition
+Declaration, Accessing the structure elements
+Array of structures
+Arrays with in structures
+pointer to structure
+passing structure to function
+nested structures,
+unions. 
+
+Files: 
+Definition
+Types of files, Opening modes
+File IO Functions
+Random access functions
+Preprocessor directives.
